@@ -1,0 +1,2 @@
+Java does not support operator overloading (with one small exception: the + operator is overloaded for String concatenation).
+In general, Java avoids operator overloading because it can make code harder to read and maintain — one of Java's main goals was to stay simple and predictable.
